@@ -5,7 +5,7 @@ Warp+ 各种需要的工具，都不需要有什么技术基础，纯纯按教�
 客户端：https://www.wireguard.com/install
 筛选：https://github.com/XIU2/CloudflareSpeedTest
 
-https://github.com/XIU2/CloudflareSpeedTest/discussions/392
+https://github.com/XIU2/CloudflareSpeedTest/discussions/392https://replit.com/@302545151
 
 相关教程可以自行在互联网上检索。
 
