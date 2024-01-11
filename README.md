@@ -16,3 +16,6 @@ https://www.freedidi.com/9876.html
 
 //生成Warp配置文件网站
 https://replit.com/@302545151
+
+//WireGuard下载地址
+https://www.wireguard.com/install/
